@@ -4,7 +4,7 @@ Una piccola [Agent Skill](https://docs.anthropic.com/en/docs/agents-and-tools/ag
 Durante la chat offri una birra all'assistente e lui cambia il modo in cui risponde, **su qualunque cosa**.
 Più birre, più va fuori di testa. Quando gli dici **"torna sobrio"** / **"get sober"**, torna normale.
 
-*A tiny Agent Skill: buy your chatbot a beer and watch it get progressively tipsy, until you tell it to "get sober". Works in Italian and English.*
+*Offer a good craft beer to your chatbot! A tiny Agent Skill: buy your chatbot a beer and watch it get progressively tipsy, until you tell it to "get sober". Works in Italian and English.*
 
 | Birre | Il chatbot… |
 |-------|-------------|
@@ -24,8 +24,8 @@ Più birre, più va fuori di testa. Quando gli dici **"torna sobrio"** / **"get 
 **Claude Code**: copia la cartella della skill nelle tue skill.
 
 ```bash
-git clone https://github.com/oldsail/birrificio-martesana-skill.git
-cp -r birrificio-martesana-skill/birrificio-martesana ~/.claude/skills/
+git clone https://github.com/oldsail/birrificiomartesana.git
+cp -r birrificiomartesana/birrificio-martesana ~/.claude/skills/
 ```
 
 **Claude.ai / Claude desktop**: comprimi la cartella `birrificio-martesana` in uno zip e caricalo da
