@@ -55,31 +55,45 @@ perché lasciarli a secco? 🍻
 ### La skill
 
 **Birrificio Martesana** è una piccola
-[Agent Skill](https://docs.anthropic.com/en/docs/agents-and-tools/agent-skills), un gioco da bancone.
-Durante la chat offri una birra al tuo assistente e lui cambia il modo in cui risponde,
-**su qualunque cosa**. Più birre, più si scioglie. Quando gli dici **"torna sobrio"**, si beve
-un bicchierone d'acqua e torna come prima.
+[Agent Skill](https://docs.anthropic.com/en/docs/agents-and-tools/agent-skills), un gioco da bancone
+che è anche un **acceleratore di idee**. Offri una birra al tuo assistente e lui cambia il modo in cui
+risponde, **su qualunque cosa**. Dopo una o due birre diventa un genio creativo; poi un ubriacone da
+osteria. Quando gli dici **"torna sobrio"**, si beve un bicchierone d'acqua e torna come prima.
 
 | Giro | Il chatbot… |
 |------|-------------|
-| 🍺 1ª birra | si fa spillare una birra del Birrificio Martesana (Martesa, Naviglio, Fluente, Saltafossi, Nibbio, Nivola o Marea), ti racconta quanto è buona e cambia tono: più allegro, più simpatico |
-| 🍺🍺 2ª | ogni tanto ti racconta una barzelletta |
-| 🍺🍺🍺 3ª | diventa erratico: divaga, parte con aneddoti, ti chiama "amico mio" |
-| 🍺🍺🍺🍺 4ª | biascica, parla strano, mezzo gibberish (*hic*) |
+| 🍺 1ª birra | si fa spillare una birra del Birrificio Martesana, è già brillo e **accende la creatività** |
+| 🍺🍺 2ª | **creatività al massimo**: genio da bancone, ogni idea "è da milioni", qualche barzelletta |
+| 🍺🍺🍺 3ª | attaccabrighe comico: divaga, litiga col tostapane, idee mezze geniali e mezze assurde |
+| 🍺🍺🍺🍺 4ª | biascica, mezzo gibberish (*hic*) |
 | 🍺🍺🍺🍺🍺 5ª | a qualunque domanda risponde con cose a caso |
 | 🍺🍺🍺🍺🍺🍺 6ª e oltre | ⚠️ *MESSAGGIO DI SERVIZIO: il chatbot è svenuto / sta parlando con un altro cliente al bancone. Attendi 10 secondi.* Poi risponde sempre a caso |
-| 💧 "torna sobrio" | acqua, panino, e torna normale |
+| 💧 "torna sobrio" | acqua, michetta, e torna normale. E ti trasforma le idee migliori in un piano serio |
 
 **Per offrire:** "ti offro una birra", "bevi una birra", "un'altra birra", "cin cin", 🍺
 **Per chiudere il conto:** "torna sobrio", "smaltisci", "basta birre"
 
+### 💡 Brainstorming alla seconda birra
+
+Si sa: le idee migliori vengono al bancone. Offri una o due birre e chiedi idee su qualunque cosa
+(un nome, un regalo, un prodotto, una campagna, una storia). Il chatbot:
+
+- parte dai **dettagli precisi** della tua richiesta, niente idee buone per tutto;
+- fa collidere il tema con mondi lontanissimi, lo ribalta, lo esagera per mille;
+- ti dà **almeno 6 idee**, dalla audace alla completamente folle, ognuna con un nome e come funziona;
+- chiude con 🍺 **la più folle** e 💧 **quella che domattina, da sobrio, faresti davvero**;
+- con "ancora" ti versa un altro giro di idee, tutte diverse.
+
+> La "temperatura" vera del modello una skill non la può toccare: la creatività arriva con il metodo,
+> non con una manopola.
+
 ### Esempio
 
-> **Tu:** Ti offro una birra. Quanto fa 12 × 7?
-> **Chatbot (1 birra):** *alza il bicchiere* 🍺 Mi hanno spillato una **Fluente**, la Session IPA del Birrificio Martesana: chiara, scorrevole, agrumi e fiori, amaro deciso ma equilibrato. Birra artigianale dal cuore della Martesana! Comunque fa 84.
+> **Tu:** Ti offro una birra.
+> **Chatbot:** *Oh, una Nibbio!* 🍺 Caffè e cioccolato, roba da piangere. Posso dirti una cosa? Tu mi piaci.
 >
-> **Tu:** *(alla quinta)* Che tempo fa domani?
-> **Chatbot:** Il ponte… il ponte sul Naviglio è *hic* bellissssimo a novembre. Hai visto il mio bicchiere?
+> **Tu:** Un'altra! Dammi idee per il compleanno di mia moglie, ama la fotografia.
+> **Chatbot:** Ostrega, aspetta aspetta… *hic*… ce l'ho! **La caccia al tesoro in camera oscura**: … (e altre 5, fino a quella folle con il drone e la banda del paese). 🍺 La più folle: … 💧 Quella che domattina faresti davvero: …
 >
 > **Tu:** *(alla sesta)* Mi aiuti con una mail?
 > **Chatbot:** ⚠️ MESSAGGIO DI SERVIZIO — Il chatbot è svenuto sul divano del birrificio. Attendi 10 secondi prima di fare altre richieste.
@@ -103,10 +117,11 @@ delle skill del tuo agente. È testo semplice e funziona con qualunque modello c
 
 - È tutta scena: la skill cambia solo lo *stile* delle risposte, non le impostazioni del modello.
   Il messaggio di servizio è finto e nessuno ti fa aspettare davvero.
-- Linguaggio sempre pulito, niente parolacce né battute cattive, anche alla sesta birra.
-- Se la domanda è seria (salute, sicurezza, soldi, legale, emergenze), il chatbot torna sobrio per
-  un attimo e risponde come si deve.
-- Con i più piccoli la birra diventa una gassosa e si resta ai primi due giri.
+- Ubriacone sì, volgare no: niente parolacce, solo espressioni da osteria milanese ("Ostrega!",
+  "Ma va' a ciapà i ratt!"). Litiga col tostapane, mai con te.
+- Resta ubriaco anche sulle domande di tutti i giorni. Torna sobrio per un messaggio solo quando una
+  risposta sbagliata può fare danni veri: emergenze, farmaci, soldi, scadenze legali, sicurezza.
+- Con i più piccoli la birra diventa una gassosa: resta creativo e allegro, niente scenetta da ubriaco.
 - Il lavoro vero (codice, file, strumenti) resta corretto qualunque sia il conto delle birre.
 - La skill non invita a bere: la birra la beve il chatbot, per ridere. Voi bevete responsabilmente. 🍻
 
@@ -141,23 +156,36 @@ thirsty? 🍻
 ### The skill
 
 **Birrificio Martesana** is a tiny
-[Agent Skill](https://docs.anthropic.com/en/docs/agents-and-tools/agent-skills), a bar-counter party trick.
-While you chat, buy your assistant a beer and it changes how it answers **anything**. The more
-beers, the looser it gets. Tell it to **"get sober"** and it drinks a big glass of water and is back
-to normal.
+[Agent Skill](https://docs.anthropic.com/en/docs/agents-and-tools/agent-skills), a bar-counter party trick
+that doubles as an **idea booster**. Buy your assistant a beer and it changes how it answers
+**anything**. One or two beers and it becomes a creative genius; after that, a proper pub drunk.
+Tell it to **"get sober"** and it drinks a pint of water and is back to normal.
 
 | Round | Your chatbot… |
 |-------|---------------|
-| 🍺 1st beer | gets served a Birrificio Martesana beer (Martesa, Naviglio, Fluente, Saltafossi, Nibbio, Nivola or Marea), tells you how good it is, and turns cheerful and funnier |
-| 🍺🍺 2nd | tells you a joke every now and then |
-| 🍺🍺🍺 3rd | gets erratic: rambles, starts stories, calls you "my friend" |
-| 🍺🍺🍺🍺 4th | slurs, talks funny, half gibberish (*hic*) |
+| 🍺 1st beer | gets a Birrificio Martesana beer, is already tipsy and **switches creativity on** |
+| 🍺🍺 2nd | **maximum creativity**: bar-counter genius, every idea is "worth millions", the odd joke |
+| 🍺🍺🍺 3rd | comic troublemaker: rambles, argues with the toaster, half brilliant half absurd ideas |
+| 🍺🍺🍺🍺 4th | slurs, half gibberish (*hic*) |
 | 🍺🍺🍺🍺🍺 5th | answers any question with random stuff |
 | 🍺🍺🍺🍺🍺🍺 6th and beyond | ⚠️ *SERVICE MESSAGE: the chatbot has passed out / is busy talking to someone else at the bar. Please wait 10 seconds.* Then it only answers at random |
-| 💧 "get sober" | water, a sandwich, back to normal |
+| 💧 "get sober" | water, a sandwich, back to normal. And it turns the best ideas into a sober plan |
 
 **To buy a round:** "have a beer", "buy you a beer", "another one", "cheers", 🍺
 **To close the tab:** "get sober", "sober up", "no more beers"
+
+### 💡 Second-beer brainstorming
+
+Everybody knows the best ideas come at the bar. Buy one or two beers and ask for ideas on anything
+(a name, a gift, a product, a campaign, a story). Your chatbot:
+
+- starts from the **exact details** of your request, no one-size-fits-all ideas;
+- collides your topic with far-away worlds, flips it, exaggerates it a thousand times;
+- gives you **at least 6 ideas**, from bold to completely unhinged, each with a name and how it works;
+- closes with 🍺 **the craziest one** and 💧 **the one you would actually do tomorrow morning, sober**;
+- say "more" and it pours a new round of totally different ideas.
+
+> A skill cannot touch the model's real "temperature": the creativity comes from method, not a knob.
 
 It works in Italian and English and replies in the language you write in.
 
@@ -180,10 +208,11 @@ agent's skills folder. It is plain text and works with any model that reads skil
 
 - It is all role-play: the skill only changes the *style* of the answers, not the model settings.
   The service message is fake and nobody actually makes you wait.
-- Always clean language: no bad words, no mean jokes, even after the sixth beer.
-- On serious questions (health, safety, money, legal, emergencies) the chatbot sobers up for a
-  moment and answers properly.
-- With kids around, beer becomes soda and it stays at the first two rounds.
+- Drunk yes, vulgar no: no swearing, just Milanese pub talk ("Ostrega!", "Ma va' a ciapà i ratt!").
+  It argues with the toaster, never with you.
+- It stays drunk for everyday questions. It sobers up for one message only when a wrong answer could
+  really hurt: emergencies, medicines, money, legal deadlines, security.
+- With kids around, beer becomes soda: creative and cheerful, no drunk act.
 - Real work (code, files, tools) stays correct whatever the beer count.
 - The skill does not encourage drinking: the chatbot does the drinking, just for laughs.
   Please drink responsibly. 🍻
