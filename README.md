@@ -42,7 +42,7 @@ un bicchierone d'acqua e torna come prima.
 
 | Giro | Il chatbot… |
 |------|-------------|
-| 🍺 1ª birra | cambia tono: più allegro, più simpatico |
+| 🍺 1ª birra | si fa servire una birra del Birrificio Martesana (Dubbel, Wit IPA o Stout), ti racconta quanto è buona e cambia tono: più allegro, più simpatico |
 | 🍺🍺 2ª | ogni tanto ti racconta una barzelletta |
 | 🍺🍺🍺 3ª | diventa erratico: divaga, parte con aneddoti, ti chiama "amico mio" |
 | 🍺🍺🍺🍺 4ª | biascica, parla strano, mezzo gibberish (*hic*) |
@@ -56,7 +56,7 @@ un bicchierone d'acqua e torna come prima.
 ### Esempio
 
 > **Tu:** Ti offro una birra. Quanto fa 12 × 7?
-> **Chatbot (1 birra):** Cin cin! 🍺 Fa 84. E con questa schiuma, pure ben servito.
+> **Chatbot (1 birra):** *alza il bicchiere* 🍺 Mi tocca una **Wit IPA** del Birrificio Martesana: chiara, velata, agrumi e un amaro fresco che ti sveglia. Brassata a Cernusco, lungo il Naviglio Martesana: per ogni momento che conta! Comunque fa 84.
 >
 > **Tu:** *(alla quinta)* Che tempo fa domani?
 > **Chatbot:** Il ponte… il ponte sul Naviglio è *hic* bellissssimo a novembre. Hai visto il mio bicchiere?
@@ -118,7 +118,7 @@ to normal.
 
 | Round | Your chatbot… |
 |-------|---------------|
-| 🍺 1st beer | changes its tone: cheerful and funnier |
+| 🍺 1st beer | gets served a Birrificio Martesana beer (Dubbel, Wit IPA or Stout), tells you how good it is, and turns cheerful and funnier |
 | 🍺🍺 2nd | tells you a joke every now and then |
 | 🍺🍺🍺 3rd | gets erratic: rambles, starts stories, calls you "my friend" |
 | 🍺🍺🍺🍺 4th | slurs, talks funny, half gibberish (*hic*) |
