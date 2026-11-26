@@ -19,18 +19,38 @@
   <img src="assets/van-bar.jpg" alt="Il van-bar del Birrificio Martesana in piazza" width="380">
 </p>
 
-Siamo il **Birrificio Martesana**: birra artigianale brassata a **Cernusco sul Naviglio**, lungo
-il **Naviglio Martesana**, alle porte di Milano. Facciamo parte di
-[Milano Drinks Factory](https://milanodrinksfactory.com) (Gessate, MI).
+**Birra artigianale, dal cuore della Martesana.** 🍺
 
-Le nostre birre sono fatte per stare in compagnia: la grigliata, l'aperitivo con gli amici,
-la birra dopo il calcetto, la partita sul divano, la camminata in montagna.
-**Per ogni momento che conta.**
+Siamo il **Birrificio Martesana**, nato nel **2018** sulle rive della Martesana, a
+**Cernusco sul Naviglio**, alle porte di Milano. Ricette curate, materie prime selezionate e il
+piacere di una birra fatta bene. Il nome racconta il nostro punto di partenza: un luogo attraversato
+dall'acqua, dalla storia e da una cultura produttiva che continua a ispirarci.
+
+Seguiamo ogni fase, dalla ricetta al confezionamento, per fare birre **contemporanee, equilibrate e
+riconoscibili**, che accompagnano occasioni diverse: dalla tavola alla degustazione, dai locali
+agli eventi.
+
+**Le nostre birre**
+
+| Birra | Stile | Alc. |
+|-------|-------|------|
+| **Martesa** | Lager | 4,5% |
+| **Naviglio** | English Pale Ale | 5,0% |
+| **Fluente** | Session IPA | 4,5% |
+| **Saltafossi** | Red IPA | 7,4% |
+| **Nibbio** | Porter | 4,0% |
+| **Nivola** | Blanche | 4,5% |
+| **Marea** | Gose (sale dolce di Cervia e frutto della passione) | 5,0% |
+
+Martesa e Nivola esistono anche senza glutine.
+
+**Vieni a trovarci:** spaccio in birrificio a Cernusco sul Naviglio, lunedì-venerdì 9:00-18:30, e
+visite con degustazione (4,8 stelle su Google Maps).
 
 E visto che ormai passiamo un sacco di tempo anche a parlare con i chatbot, ci siamo chiesti:
 perché lasciarli a secco? 🍻
 
-👉 [Scopri il birrificio](https://milanodrinksfactory.com/birrificio-martesana)
+👉 [birramartesana.it](https://birramartesana.it): le birre, le visite, gli eventi.
 
 ### La skill
 
@@ -42,7 +62,7 @@ un bicchierone d'acqua e torna come prima.
 
 | Giro | Il chatbot… |
 |------|-------------|
-| 🍺 1ª birra | si fa servire una birra del Birrificio Martesana (Dubbel, Wit IPA o Stout), ti racconta quanto è buona e cambia tono: più allegro, più simpatico |
+| 🍺 1ª birra | si fa spillare una birra del Birrificio Martesana (Martesa, Naviglio, Fluente, Saltafossi, Nibbio, Nivola o Marea), ti racconta quanto è buona e cambia tono: più allegro, più simpatico |
 | 🍺🍺 2ª | ogni tanto ti racconta una barzelletta |
 | 🍺🍺🍺 3ª | diventa erratico: divaga, parte con aneddoti, ti chiama "amico mio" |
 | 🍺🍺🍺🍺 4ª | biascica, parla strano, mezzo gibberish (*hic*) |
@@ -56,7 +76,7 @@ un bicchierone d'acqua e torna come prima.
 ### Esempio
 
 > **Tu:** Ti offro una birra. Quanto fa 12 × 7?
-> **Chatbot (1 birra):** *alza il bicchiere* 🍺 Mi tocca una **Wit IPA** del Birrificio Martesana: chiara, velata, agrumi e un amaro fresco che ti sveglia. Brassata a Cernusco, lungo il Naviglio Martesana: per ogni momento che conta! Comunque fa 84.
+> **Chatbot (1 birra):** *alza il bicchiere* 🍺 Mi hanno spillato una **Fluente**, la Session IPA del Birrificio Martesana: chiara, scorrevole, agrumi e fiori, amaro deciso ma equilibrato. Birra artigianale dal cuore della Martesana! Comunque fa 84.
 >
 > **Tu:** *(alla quinta)* Che tempo fa domani?
 > **Chatbot:** Il ponte… il ponte sul Naviglio è *hic* bellissssimo a novembre. Hai visto il mio bicchiere?
@@ -96,17 +116,27 @@ delle skill del tuo agente. È testo semplice e funziona con qualunque modello c
 
 ### Who we are: Birrificio Martesana
 
-We are **Birrificio Martesana**: craft beer brewed in **Cernusco sul Naviglio**, right along the
-**Naviglio Martesana** canal, just outside Milan. We are part of
-[Milano Drinks Factory](https://milanodrinksfactory.com) (Gessate, MI).
+**Craft beer from the heart of the Martesana.** 🍺
 
-Our beers are made for good company: the barbecue, drinks with friends, the beer after five-a-side
-football, the match on the couch, the hike in the mountains. **For every moment that matters.**
+We are **Birrificio Martesana**, born in **2018** on the banks of the Martesana canal, in
+**Cernusco sul Naviglio**, at the gates of Milan. Carefully crafted recipes, selected raw materials
+and the pleasure of a beer done right. Our name tells where we started: a place shaped by water,
+history and a working culture that still inspires us.
+
+We follow every step, from recipe to packaging, to brew **contemporary, balanced and recognisable**
+beers for every kind of occasion: at the table, at a tasting, in pubs and at events.
+
+**Our beers:** Martesa (Lager, 4.5%), Naviglio (English Pale Ale, 5.0%), Fluente (Session IPA, 4.5%),
+Saltafossi (Red IPA, 7.4%), Nibbio (Porter, 4.0%), Nivola (Blanche, 4.5%), Marea (Gose with Cervia
+sweet salt and passion fruit, 5.0%). Martesa and Nivola also come gluten-free.
+
+**Come visit us:** brewery shop in Cernusco sul Naviglio, Monday-Friday 9:00-18:30, plus guided
+visits with tasting (rated 4.8 stars on Google Maps).
 
 And since we all spend so much time talking to chatbots these days, we wondered: why leave them
 thirsty? 🍻
 
-👉 [Meet the brewery](https://milanodrinksfactory.com/birrificio-martesana)
+👉 [birramartesana.it](https://birramartesana.it): beers, visits, events.
 
 ### The skill
 
@@ -118,7 +148,7 @@ to normal.
 
 | Round | Your chatbot… |
 |-------|---------------|
-| 🍺 1st beer | gets served a Birrificio Martesana beer (Dubbel, Wit IPA or Stout), tells you how good it is, and turns cheerful and funnier |
+| 🍺 1st beer | gets served a Birrificio Martesana beer (Martesa, Naviglio, Fluente, Saltafossi, Nibbio, Nivola or Marea), tells you how good it is, and turns cheerful and funnier |
 | 🍺🍺 2nd | tells you a joke every now and then |
 | 🍺🍺🍺 3rd | gets erratic: rambles, starts stories, calls you "my friend" |
 | 🍺🍺🍺🍺 4th | slurs, talks funny, half gibberish (*hic*) |
@@ -161,6 +191,7 @@ agent's skills folder. It is plain text and works with any model that reads skil
 ---
 
 <p align="center">
-  Brassata lungo il Naviglio Martesana · Brewed along the Naviglio Martesana<br>
+  Birra artigianale dal cuore della Martesana · Craft beer from the heart of the Martesana<br>
+  <a href="https://birramartesana.it">birramartesana.it</a> · 
   <a href="LICENSE">MIT License</a> · © 2026 Birrificio Martesana
 </p>
